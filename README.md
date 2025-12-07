@@ -22,7 +22,7 @@ Task 3: Make.com Automation
 Live Form:
 [https://santhoshs-groovy-site-b69022.webflow.io/](https://santhoshs-groovy-site-b69022.webflow.io/)
 
-Google Sheet :
+Response Sheet :
 [https://docs.google.com/spreadsheets/d/1LF4MPhGDRLgGhdDUyVZV7rglWIU-Nhwp50YD7AHpZe4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LF4MPhGDRLgGhdDUyVZV7rglWIU-Nhwp50YD7AHpZe4/edit?usp=sharing)
 
 Automation Video:
